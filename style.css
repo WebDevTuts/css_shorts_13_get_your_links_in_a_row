@@ -2,7 +2,7 @@
 
 /*  This file was provided as part of a weekly web design tutorial series.
 	Sign-up for our newsletter, at http://codifydesign.com, to be notified
-	about each new episode of CSS Shorts  
+	about each new episode of CSS Shorts
 */
 
 @import url('https://fonts.googleapis.com/css?family=Pinyon+Script|Abel');
@@ -27,7 +27,7 @@ h1 {
 	font-size: 4em;
 	color: #fff;
 	line-height: 1.2em;
-	margin: 10px 0 0 0;  
+	margin: 10px 0 0 0;
 }
 p {
   margin: 0 0 1em 0;
@@ -53,16 +53,16 @@ article nav {
 	color: rgba(255,255,255,.6);
 }
 
-
+article nav div { margin: 0 0 15px 0; }
 
 
 
 
 
 @media screen and (max-width: 500px) {
-	
-	
-	
+
+
+
 }
 
 
