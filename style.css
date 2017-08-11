@@ -65,6 +65,10 @@ article nav div:nth-child(1)::before {
   content: 'History';
 }
 
+article nav div:nth-child(2)::before {
+  content: 'Practices';
+}
+
 @media screen and (max-width: 500px) {
 
 
