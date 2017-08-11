@@ -61,7 +61,9 @@ article nav div::before {
   font-style: italic;
 }
 
-
+article nav div:nth-child(1)::before {
+  content: 'History';
+}
 
 @media screen and (max-width: 500px) {
 
