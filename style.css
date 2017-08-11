@@ -78,7 +78,11 @@ article nav div:nth-child(2)::before {
 
 @media screen and (max-width: 500px) {
 
-
+  article nav div { margin-left: 0; }
+  article nav div::before {
+    display: static;
+    display: block;
+  }
 
 }
 
