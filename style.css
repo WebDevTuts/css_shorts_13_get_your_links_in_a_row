@@ -53,10 +53,9 @@ article nav {
 	color: rgba(255,255,255,.6);
 }
 
-article nav div { margin: 0 0 15px 0; }
+article nav div { margin: 0 0 15px 100px; }
 
 article nav div::before {
-  content: 'test';
   font-size: 0.9em;
   font-style: italic;
 }
