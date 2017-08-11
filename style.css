@@ -61,6 +61,11 @@ article nav div {
 article nav div::before {
   font-size: 0.9em;
   font-style: italic;
+  display: inline-block;
+  position: absolute;
+  top: 2px;
+  left: -100px;
+  width: 100px;
 }
 
 article nav div:nth-child(1)::before {
