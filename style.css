@@ -53,7 +53,10 @@ article nav {
 	color: rgba(255,255,255,.6);
 }
 
-article nav div { margin: 0 0 15px 100px; }
+article nav div {
+  margin: 0 0 15px 100px;
+  position: relative;
+}
 
 article nav div::before {
   font-size: 0.9em;
